@@ -349,7 +349,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .col-md-6 {
-  background: #f1e2d7;
+  background: #B17F44;
 /* light blue color: #c3eafd; */
   padding-right: 0;
   padding-left: 0;
@@ -416,7 +416,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #E9724C;
+  background: #606E56;
 }
 
 #service p {
@@ -462,7 +462,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #E3AE57;
+  background: #588DD1;
 }
 
 #education .education-img {
@@ -523,7 +523,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #E9724C;
+  background: #986832;
 }
 
 #contact .contact-form,
