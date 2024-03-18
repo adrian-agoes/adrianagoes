@@ -141,7 +141,9 @@ footer {
   text-align: center;
 }
 
-#experience,
+#experience {
+  background: #7D9A68;
+}
 #education {
   background: #7D9A68;
 }
